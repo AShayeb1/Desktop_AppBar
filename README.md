@@ -7,9 +7,7 @@ Launcher bar for Windows built with WPF (.NET 8). Lets you pin programs and fold
 https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
 
 <img width="318" height="146" alt="Image" src="https://github.com/user-attachments/assets/ea20e15d-522f-4c44-8953-907fafc6ec31" />
-<img width="501" height="211" alt="Image" src="https://github.com/user-attachments/assets/a8e2757a-512d-4800-8d96-ff1112c0ba6a" />
-<img width="332" height="269" alt="Image" src="https://github.com/user-attachments/assets/1bd8ee4c-31cc-4cf9-afa0-caed339e0f89" />
-<img width="209" height="163" alt="Image" src="https://github.com/user-attachments/assets/646da28e-3dd9-4f22-83ea-5d06ec4ed434" />
+<img width="562" height="217" alt="Image" src="https://github.com/user-attachments/assets/4c32d9a5-761f-4924-8e09-2436a90ca664" />
 
 ---
 
