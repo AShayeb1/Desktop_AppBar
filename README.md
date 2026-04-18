@@ -28,6 +28,12 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
 - تكامل اختياري مع قائمة سطح المكتب (النقر بالزر الأيمن) عبر السجل.
 - أيقونة في شريط النظام مع قائمة مختصرة لفتح التطبيق أو الخروج.
 
+- **تحديثات الإصدار 1.4:**
+    - جعل التمدد مركزياً (يمين ويسار) للحفاظ على موقع الشريط ثابتاً.
+    - توسيط الأيقونة المصغرة عند الطي تماماً في منتصف النافذة.
+    - جعل خلفية الأيقونة المصغرة شفافة تماماً لإظهار الأيقونة فقط عند الطي.
+    - تحديث أيقونة البرنامج بتصميم جديد عالي الجودة.    - 
+
 ### متطلبات التشغيل
 - نظام التشغيل: Windows 10 أو Windows 11.
 - إطار العمل: .NET 8 Desktop Runtime (WPF).
@@ -57,6 +63,12 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
 - Behavior options: Start with Windows, Minimize to Tray, Always on Top, Auto-collapse.
 - Optional desktop context menu integration via registry.
 - Tray icon with quick menu to open or exit the app.
+
+- **Version 1.4 Updates:**
+- Centralized Expansion: Expansion is now centered (left and right) to keep the bar position fixed.
+- Icon Centering: The mini-icon is now perfectly centered in the window when collapsed.
+- Transparent Background: Made the mini-icon background fully transparent to show only the icon.
+- Icon Refresh: Updated the app icon with a new high-quality design.
 
 ### Requirements
 - OS: Windows 10 or Windows 11.
