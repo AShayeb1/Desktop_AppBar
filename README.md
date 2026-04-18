@@ -31,7 +31,6 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
     - جعل التمدد مركزياً (يمين ويسار) للحفاظ على موقع الشريط ثابتاً.
     - توسيط الأيقونة المصغرة عند الطي تماماً في منتصف النافذة.
     - جعل خلفية الأيقونة المصغرة شفافة تماماً لإظهار الأيقونة فقط عند الطي.
-    - إضافة رقم الإصدار في أعلى نافذة الإعدادات بجميع اللغات.
     - تحديث أيقونة البرنامج بتصميم جديد عالي الجودة.
 
 ### متطلبات التشغيل
@@ -67,7 +66,6 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
     - Centered expansion (expands left and right) to keep the bar's position fixed.
     - Perfectly centered small icon during auto-collapse.
     - Made the collapsed icon background fully transparent to show only the icon.
-    - Added version number to the Settings window in all supported languages.
     - Updated the application icon with a new high-quality design.
 
 ### Requirements
