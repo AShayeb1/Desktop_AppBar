@@ -32,6 +32,10 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
     - توسيط الأيقونة المصغرة عند الطي تماماً في منتصف النافذة.
     - جعل خلفية الأيقونة المصغرة شفافة تماماً لإظهار الأيقونة فقط عند الطي.
     - تحديث أيقونة البرنامج بتصميم جديد عالي الجودة.
+- **تحديثات الإصدار 1.5:**
+    - إصلاح مشكلة الخلفية السوداء التي كانت تظهر عند طي البرنامج.
+    - تحسين عملية تصغير حجم النافذة لتناسب الأيقونة تماماً عند الطي.
+    - معالجة مشاكل الشفافية لضمان تجربة عرض سلسة للأيقونة العائمة.
 
 ### متطلبات التشغيل
 - نظام التشغيل: Windows 10 أو Windows 11.
@@ -67,6 +71,10 @@ https://github.com/user-attachments/assets/d07395e0-9b80-4925-9fc7-f0d1fb01633f
     - Perfectly centered small icon during auto-collapse.
     - Made the collapsed icon background fully transparent to show only the icon.
     - Updated the application icon with a new high-quality design.
+- **Version 1.5 Updates:**
+    - Fixed the black background issue when the app was collapsed.
+    - Optimized window resizing to fit the icon perfectly during collapse.
+    - Improved transparency handling for a better floating icon experience.
 
 ### Requirements
 - OS: Windows 10 or Windows 11.
